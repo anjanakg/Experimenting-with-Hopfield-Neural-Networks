@@ -4,31 +4,13 @@
 </p>
 
 Here I added 3 notebooks. 
-[Hopfield NN Finding possible Final States of a Vector](Hopfield NN_Finding_possible_Final_States_of_a_Vector.ipynb) 
- .
 
 
+[Hopfield NN Finding possible Final States of a Vector](HopfieldNN_Finding_possible_Final_States_of_a_Vector.ipynb) 
 
-
-
-
-<p align="center">
-  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture2.jpg" width="1200" >
+<p align="justify">In this assignment, I simulated Hopfield Network as an Associative memory, Asynchronized mode, and updated one neuron at a time. I stored 2 vectors as memories. Then I used all possible initial states to find the final (stable) states. And then I plotted the initial state decimal vs. the final state decimal. 
 </p>
 
-<br>
 
+[Hopfield NN Finding possible Final States of a Vector](HopfieldNN_Finding_possible_Final_States_of_a_Vector.ipynb) 
 
-
-<p align="justify"> 
-    We tried several pre-trained models to select the best model. 
-    We trained each model on the training set and evaluated each trained model’s performance on the validation set. And finally, choose the model with the best             validation set performance for testing on test data set.
-</p>
-
-<p align="justify"> 
-    We faced lots of pitfalls during our process. The ResNet50 with Transfer Learning model performed very well in our data. However, we could not convert it to tflite     format. We converted it to ONNX format with ONNX opset version 11. But the file size was 150MB and also Unity was not supporting it.  
-</p>
-
-  The complete notebook of ResNet50 model implementation, training, and evaluation is
-  [here](Classification_of_UDSculptures_ResNet50.ipynb) 
-  .
