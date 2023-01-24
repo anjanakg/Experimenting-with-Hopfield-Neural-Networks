@@ -12,11 +12,11 @@ Here I added 3 notebooks.
 </p>
 
 
-[Hopfield NN with single imag _pattern](HopfieldNN_with_single_image_pattern.ipynb) 
+[Hopfield NN with Single Image Pattern](HopfieldNN_with_single_image_pattern.ipynb) 
 <p align="justify">Here I used one of my pictures. I turned it to binary, added distortion to the image, and then simulated the Hopfield NN to fix it. 
 </p>
 
 <p align="center">
-  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture3.jpg" width="1200" >
+  <img src="https://github.com/anjanakg/Experimenting-with-Hopfield-Neural-Networks/blob/main/images/image1.jpg" width="800" >
 </p>
 
