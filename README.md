@@ -1,1 +1,2 @@
-# Experimenting-with-Hopfield-Neural-Networks
+# Experimenting with Hopfield Neural Networks
+
