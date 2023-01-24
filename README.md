@@ -16,4 +16,7 @@ Here I added 3 notebooks.
 <p align="justify">Here I used one of my pictures. I turned it to binary, added distortion to the image, and then simulated the Hopfield NN to fix it. 
 </p>
 
+<p align="center">
+  <img src="https://github.com/anjanakg/Visualizing-Hidden-Stories-Using-Deep-Learning/blob/main/images/Picture3.jpg" width="1200" >
+</p>
 
