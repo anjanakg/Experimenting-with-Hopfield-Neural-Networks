@@ -4,9 +4,12 @@
 </p>
 
 Here I added 3 notebooks. 
+[Hopfield NN Finding possible Final States of a Vector](Hopfield NN_Finding_possible_Final_States_of_a_Vector.ipynb) 
+ .
 
-[here](Classification_of_UDSculptures_ResNet50.ipynb) 
-.
+
+
+
 
 
 <p align="center">
