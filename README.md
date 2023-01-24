@@ -12,5 +12,8 @@ Here I added 3 notebooks.
 </p>
 
 
-[Hopfield NN Finding possible Final States of a Vector](HopfieldNN_Finding_possible_Final_States_of_a_Vector.ipynb) 
+[Hopfield NN with single imag _pattern](HopfieldNN_with_single_image_pattern.ipynb) 
+<p align="justify">Here I used one of my pictures. I turned it to binary, added distortion to the image, and then simulated the Hopfield NN to fix it. 
+</p>
+
 
