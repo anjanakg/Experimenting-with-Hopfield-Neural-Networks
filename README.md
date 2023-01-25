@@ -20,3 +20,4 @@ Here I added 3 notebooks.
   <img src="https://github.com/anjanakg/Experimenting-with-Hopfield-Neural-Networks/blob/main/images/image1.jpg" width="600" >
 </p>
 
+[Hopfield NN with Multiple Image Patterns](HopfieldNN_with multiple_Image_patterns.ipynb) 
