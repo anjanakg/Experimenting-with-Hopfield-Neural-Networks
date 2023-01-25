@@ -21,3 +21,10 @@ Here I added 3 notebooks.
 </p>
 
 [Hopfield NN with Multiple Image Patterns](HopfieldNN_with_multiple_Image_patterns.ipynb) 
+
+<p align="justify">Here I used a few selected images. I downloaded them from the Internet. I turned them to binary and stored them as memory states. Then I randomly selected an image from the memory states and added a noise on it. Then I used the Hopfield NN to recognize the correct image by fixing it.  
+</p>
+
+<p align="center">
+  <img src="https://github.com/anjanakg/Experimenting-with-Hopfield-Neural-Networks/blob/main/images/image2.jpg" width="600" >
+</p>
