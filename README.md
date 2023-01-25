@@ -17,6 +17,6 @@ Here I added 3 notebooks.
 </p>
 
 <p align="center">
-  <img src="https://github.com/anjanakg/Experimenting-with-Hopfield-Neural-Networks/blob/main/images/image1.jpg" width="800" >
+  <img src="https://github.com/anjanakg/Experimenting-with-Hopfield-Neural-Networks/blob/main/images/image1.jpg" width="600" >
 </p>
 
